@@ -1,6 +1,6 @@
 ### Hi there 👋, Thomas Gasangwa
 #### I am a Full Stack Developer
-![I am a Full Stack Developer](https://www.canstockphoto.com/web-development-illustration-flat-43099091.html)
+![I am a Full Stack Developer](https://github.com/gasangw/gasangw/blob/main/pp.jpg)
 
 I am Thomas Gasangwa a full stack developer with hands-on experience on various projects using HTML, CSS, JavaScript, React, Ruby $ Rails. I enjoy coding and enjoy tasks that keep me busy. I am also a graduate of Makerere University with a bachelor's degree in Sports Science.
 
