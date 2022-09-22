@@ -57,7 +57,7 @@ I am Thomas Gasangwa a full stack developer with hands-on experience on various 
   </a> 
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/gasangw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/gasangwa-thomas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/g.thom/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/@ThomasGasangwa)  
+
 
 ## Connect with me:
 
