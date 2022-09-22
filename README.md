@@ -62,7 +62,7 @@ I am Thomas Gasangwa a full stack developer with hands-on experience on various 
 ## Connect with me:
 
 <p align = "center">
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:thomasgasangwa@gmail.com
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:thomasgasangwa@gmail.com)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/@ThomasGasangwa) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/gasangwa-thomas-84197222a/)
 </p>
