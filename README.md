@@ -62,10 +62,31 @@ I am Thomas Gasangwa a full stack developer with hands-on experience on various 
 ## Connect with me:
 
 <p align = "center">
-
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:thomasgasangwa@gmail.com
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/@ThomasGasangwa) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/gasangwa-thomas-84197222a/)
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasangw&theme=dark&show_icons=true)
+## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats</b>
+
+ <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gasangw&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="thomas |Stats" />
+   
+   <a href="https://github.com/gasangw"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gasangw&theme=dracula&hide_border=true"  width="520" alt="gasangw"/></a>
+  
+![Gasangwa's Trophy](https://github-profile-trophy.vercel.app/?username=gasangw&theme=dracula&column=4&no-frame=true)
+
+  <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="500"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gasangw&theme=dracula&layout=compact)](https://github.com/gasangw/github-readme-stats"/>
+ 
+  </div>
+   
+  ## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
+  
+![Gasangwa's Graph](https://activity-graph.herokuapp.com/graph?username=gasangw&area=true&hide_border=true&theme=dracula)
+
+
+## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
+
+<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gasangw&theme=dark" /> </p>
