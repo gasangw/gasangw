@@ -12,10 +12,6 @@ I am Thomas Gasangwa a full stack developer with hands-on experience on various 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-# Badges
-[![An image of @gasangw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gasangw)](https://holopin.io/@gasangw)
-<p align="center">
-
 # 📋 Languages: 
     
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
